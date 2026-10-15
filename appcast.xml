@@ -1,6 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Minni</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Thu, 15 Oct 2026 12:29:06 +0200</pubDate>
+            <sparkle:version>78</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[**Neu in 1.0.0:** Diese Version braucht Ihren Zugangsschlüssel. Sie haben ihn per E-Mail erhalten.
+Minni hält sich ab jetzt selbst aktuell, synchronisiert auf Wunsch über Ihre eigene iCloud mit iPhone
+und iPad und übergibt Einträge an Skjal. Auch Intel-Macs mit macOS 26.4 werden unterstützt.
+
+**New in 1.0.0:** This version needs your access key. You received it by e-mail.
+From now on Minni keeps itself up to date, syncs with iPhone and iPad through your own iCloud if you
+wish, and hands entries over to Skjal. Intel Macs with macOS 26.4 are supported too.
+]]></description>
+            <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.0.0/Minni-1.0.0.zip" length="3936405" type="application/octet-stream" sparkle:edSignature="AM3zgoPMTICOBfhSiAzg4d7ACPZqFQeKLy18lIW0I8GxZN9BHayP/A9+OUpTzPG9sBeVsrLbsg0XKLzu2vUJCg=="/>
+        </item>
     </channel>
 </rss>
