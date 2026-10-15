@@ -3,6 +3,25 @@
     <channel>
         <title>Minni</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Thu, 15 Oct 2026 12:49:37 +0200</pubDate>
+            <sparkle:version>81</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[**Neu in 1.0.1:** Das Einstellungsfenster auf dem Mac ist breiter, sodass alle Bereiche direkt sichtbar sind.
+Wenn Sie Minni zum ersten Mal installieren: Halten Sie Ihren Zugangsschlüssel bereit, Sie haben ihn per E-Mail
+erhalten. Neue Versionen installiert Minni ab jetzt selbst.
+
+**New in 1.0.1:** The Settings window on the Mac is wider, so every section shows at once.
+If you are installing Minni for the first time: have your access key ready, you received it by e-mail.
+From now on Minni installs new versions by itself.
+]]></description>
+            <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.0.1/Minni-1.0.1.zip" length="3939552" type="application/octet-stream" sparkle:edSignature="RoowvMz+9enOpHcnC9cPD7RqZhx2xsGrz92HLXEg2CIzaqfLl7d7JtTSxeS7z208gMHXHfCP0enAprOm0EVTCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.0.1/Minni81-78.delta" sparkle:deltaFrom="78" length="17462" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="s/7zxQ01w5Fdq/etDFPnc+gCbSej4HIR6fZrI76wCAD82UDQira54oYGUWd/mProO1I41HmJjXgMLJWfhUNuDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Thu, 15 Oct 2026 12:29:06 +0200</pubDate>
             <sparkle:version>78</sparkle:version>
@@ -16,7 +35,7 @@ und iPad und übergibt Einträge an Skjal. Auch Intel-Macs mit macOS 26.4 werden
 From now on Minni keeps itself up to date, syncs with iPhone and iPad through your own iCloud if you
 wish, and hands entries over to Skjal. Intel Macs with macOS 26.4 are supported too.
 ]]></description>
-            <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.0.0/Minni-1.0.0.zip" length="3936405" type="application/octet-stream" sparkle:edSignature="AM3zgoPMTICOBfhSiAzg4d7ACPZqFQeKLy18lIW0I8GxZN9BHayP/A9+OUpTzPG9sBeVsrLbsg0XKLzu2vUJCg=="/>
+            <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.0.1/Minni-1.0.0.zip" length="3936405" type="application/octet-stream" sparkle:edSignature="AM3zgoPMTICOBfhSiAzg4d7ACPZqFQeKLy18lIW0I8GxZN9BHayP/A9+OUpTzPG9sBeVsrLbsg0XKLzu2vUJCg=="/>
         </item>
     </channel>
 </rss>
