@@ -3,6 +3,23 @@
     <channel>
         <title>Minni</title>
         <item>
+            <title>1.1.1</title>
+            <pubDate>Sun, 01 Nov 2026 13:34:10 +0100</pubDate>
+            <sparkle:version>130</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[**Neu in 1.1.1:** Kleinere Verbesserungen im Hintergrund, damit Aufnahmen und importierte Audiodateien mit der neuesten iOS-Version zuverlässig weiterlaufen. Auf dem Mac ändert sich nichts.
+
+**New in 1.1.1:** Small improvements behind the scenes, so recordings and imported audio keep working reliably with the latest iOS. Nothing changes on the Mac.
+]]></description>
+            <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.1.1/Minni-1.1.1.zip" length="4712805" type="application/octet-stream" sparkle:edSignature="EtPI+FqveuPcaxcFc8UhsOAJ5G03Jzbkw33LVfP4Oyvuvo86bSRQj5idylm1m6u/i2t7itV3p6/UwxZGQ0u9Bg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.1.1/Minni130-127.delta" sparkle:deltaFrom="127" length="413742" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cShli3pbDg+6ETvfWWTw5qgdnUzOKsNAfkKjCwLV6to8sWQmDEDfnQOOkx1WTfipQq8OnD+sQRpAIuKWn9wWAw=="/>
+                <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.1.1/Minni130-81.delta" sparkle:deltaFrom="81" length="1433566" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="c1HkftTh8WTnlSMC6lY08E64LtI2cNRfAR0FisNTsyvw1wSAMlDFxHLoSLF8cV7PqJvBMGcKNjGEY8wWk3v9Aw=="/>
+                <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.1.1/Minni130-78.delta" sparkle:deltaFrom="78" length="1433306" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TYdk/KhVzi93wq93whKEfj3v16gfQXwlbQxfyAE9kLDIOuF+0Omlv9KcqjAN0XU7xk5+neN/WvuHB/MIGDekBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Sun, 01 Nov 2026 13:12:39 +0100</pubDate>
             <sparkle:version>127</sparkle:version>
@@ -14,7 +31,7 @@ Bitte aktualisieren Sie Minni auf all Ihren Geräten, bevor Sie Aufnahmen machen
 **New in 1.1.0:** Recordings. Minni records speech and writes the transcript on the device; search finds every word. Voice Memos and other audio files can be imported, and a transcript or a screenshot's text becomes a note with one click.
 Please update Minni on all your devices before you record — older versions show recordings as empty.
 ]]></description>
-            <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.1.0/Minni-1.1.0.zip" length="4712154" type="application/octet-stream" sparkle:edSignature="DiC3LuTtmz9Stf/TPYHLMN9koL250Oco12iBiG/YdNWA97C9eS8sNXTqkoIaT6yIbM9R0h2cwQGC1h4JHMarAQ=="/>
+            <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.1.1/Minni-1.1.0.zip" length="4712154" type="application/octet-stream" sparkle:edSignature="DiC3LuTtmz9Stf/TPYHLMN9koL250Oco12iBiG/YdNWA97C9eS8sNXTqkoIaT6yIbM9R0h2cwQGC1h4JHMarAQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.1.0/Minni127-81.delta" sparkle:deltaFrom="81" length="1429014" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oo2EzPCW1NXli5bCzGalkNeutG6heLL2YjGNxa7pxq7aXNvI9RUiMqu6H+5HbVkrag/pTQAsDnlhznQmXd5JAw=="/>
                 <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.1.0/Minni127-78.delta" sparkle:deltaFrom="78" length="1429566" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NKt2ihI2BL2wl0D/jjZJcJJrnUGgACodTKgpk8Mb+Mdhl3qk034dyAQpObJWsCagNaJKz/Ohag/jmdeG2wmUAQ=="/>
@@ -34,26 +51,10 @@ erhalten. Neue Versionen installiert Minni ab jetzt selbst.
 If you are installing Minni for the first time: have your access key ready, you received it by e-mail.
 From now on Minni installs new versions by itself.
 ]]></description>
-            <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.1.0/Minni-1.0.1.zip" length="3939552" type="application/octet-stream" sparkle:edSignature="RoowvMz+9enOpHcnC9cPD7RqZhx2xsGrz92HLXEg2CIzaqfLl7d7JtTSxeS7z208gMHXHfCP0enAprOm0EVTCA=="/>
+            <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.1.1/Minni-1.0.1.zip" length="3939552" type="application/octet-stream" sparkle:edSignature="RoowvMz+9enOpHcnC9cPD7RqZhx2xsGrz92HLXEg2CIzaqfLl7d7JtTSxeS7z208gMHXHfCP0enAprOm0EVTCA=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.0.1/Minni81-78.delta" sparkle:deltaFrom="78" length="17462" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="s/7zxQ01w5Fdq/etDFPnc+gCbSej4HIR6fZrI76wCAD82UDQira54oYGUWd/mProO1I41HmJjXgMLJWfhUNuDQ=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Thu, 15 Oct 2026 12:29:06 +0200</pubDate>
-            <sparkle:version>78</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[**Neu in 1.0.0:** Diese Version braucht Ihren Zugangsschlüssel. Sie haben ihn per E-Mail erhalten.
-Minni hält sich ab jetzt selbst aktuell, synchronisiert auf Wunsch über Ihre eigene iCloud mit iPhone
-und iPad und übergibt Einträge an Skjal. Auch Intel-Macs mit macOS 26.4 werden unterstützt.
-
-**New in 1.0.0:** This version needs your access key. You received it by e-mail.
-From now on Minni keeps itself up to date, syncs with iPhone and iPad through your own iCloud if you
-wish, and hands entries over to Skjal. Intel Macs with macOS 26.4 are supported too.
-]]></description>
-            <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.1.0/Minni-1.0.0.zip" length="3936405" type="application/octet-stream" sparkle:edSignature="AM3zgoPMTICOBfhSiAzg4d7ACPZqFQeKLy18lIW0I8GxZN9BHayP/A9+OUpTzPG9sBeVsrLbsg0XKLzu2vUJCg=="/>
         </item>
     </channel>
 </rss>
