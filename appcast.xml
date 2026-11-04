@@ -3,6 +3,25 @@
     <channel>
         <title>Minni</title>
         <item>
+            <title>1.3.0</title>
+            <pubDate>Wed, 04 Nov 2026 17:19:50 +0100</pubDate>
+            <sparkle:version>151</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[**Neu in 1.3.0:** Aus der Zusammenfassung einer Aufnahme können Sie mit einem Klick eine Notiz machen – mit Kernpunkten, Aufgaben und einem Link zurück zur Aufnahme. Aufnahmen lassen sich jetzt auch nach Skjal verschieben: als Text mit Zusammenfassung und Transkript, der Ton bleibt in Minni. Die Suche findet eine Aufnahme ohne Titel über den Titel ihrer Zusammenfassung. Beim ersten Start baut Minni die Suche einmal neu auf.
+
+**New in 1.3.0:** Make a note from a recording's summary in one click – with key points, action items and a link back to the recording. Recordings can now be moved to Skjal too: as text with the summary and transcript, while the audio stays in Minni. Search finds an untitled recording by its summary's title. On first launch Minni rebuilds its search once.
+]]></description>
+            <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.3.0/Minni-1.3.0.zip" length="5103351" type="application/octet-stream" sparkle:edSignature="hJmgKhC9rhoJv3ij9+hl/6nTCNrw4lZ+AeSTIxLzzTIdaTyKF43J7/qwxw6qR6nE1ZWBEZV3F+A3pR8kXfFGDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.3.0/Minni151-142.delta" sparkle:deltaFrom="142" length="709894" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NRsoVV6ZbPYm1QqkJYoKH+BI2Z27+qOPLDmi0uWsTG7oXgFsuJ7AQiEgsZeWjUAW/6k1+JOj7hWn5GonOYLwCg=="/>
+                <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.3.0/Minni151-130.delta" sparkle:deltaFrom="130" length="1310182" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="h0rRhI11O4RBAJ5COIu9zjRMHEdPa/M2y61W0WbzEaYPq2e9rS20+XbyRARceVe55n3iRcMEP98Ubv1npjrqDA=="/>
+                <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.3.0/Minni151-127.delta" sparkle:deltaFrom="127" length="1322062" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+9wb73n2HahaByDBDS5Te8s506zZaFxfv9pDOE0bvvLDsYZLc6h4IuJ2bqZefLarspf970RHZDPgnUJelQRGCQ=="/>
+                <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.3.0/Minni151-81.delta" sparkle:deltaFrom="81" length="1904402" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="y+DemQkP28exVay7dNKO14btSL7IZGb3DVAj5wbtRRdFhR7jVrUdSR9E2YiQBZsWYR62eEmhHt3HvW4YFPabDg=="/>
+                <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.3.0/Minni151-78.delta" sparkle:deltaFrom="78" length="1904258" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RIXFoUChG7fM+QRBdhiePWwISupC1jOXWTy1zkwY/VS6vfBGIYSiNSlFzrDHhtaxG1bLzt/afrRxuvHjYjJZDg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2.0</title>
             <pubDate>Wed, 04 Nov 2026 11:52:20 +0100</pubDate>
             <sparkle:version>142</sparkle:version>
@@ -12,7 +31,7 @@
 
 **New in 1.2.0:** Recordings get a summary with a suggested title, key points and action items – made on your device with Apple Intelligence. Devices without Apple Intelligence show another device's summary once it arrives through iCloud. If you like, Settings can use your own Ollama server on your home network. Also: notes can be copied from the preview in one click.
 ]]></description>
-            <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.2.0/Minni-1.2.0.zip" length="5067627" type="application/octet-stream" sparkle:edSignature="Y605cDVviVVS9BryjtNGSV6aYgDBDjQGNcZRS7E4S2370/ud9vuoAUrzWSNDvTkNCsK8eAaZiniUrF6d0pp7Bg=="/>
+            <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.3.0/Minni-1.2.0.zip" length="5067627" type="application/octet-stream" sparkle:edSignature="Y605cDVviVVS9BryjtNGSV6aYgDBDjQGNcZRS7E4S2370/ud9vuoAUrzWSNDvTkNCsK8eAaZiniUrF6d0pp7Bg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.2.0/Minni142-130.delta" sparkle:deltaFrom="130" length="1167454" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oM5HvGujd3p5SPGtC7dMaca+XIEAV/+8YKZBaRoY5+d9O2l0IwaQnRGX26XyOqIA6iSVJQUqjUTp7obx3Lt9Dg=="/>
                 <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.2.0/Minni142-127.delta" sparkle:deltaFrom="127" length="1174282" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MUvQNZiRX5qR3nIzaeDUCrrHdKY9TjLEcO+Dfe3PezcyV/rqW1ZkZhHqfR4ppp8JnPfzvBC01L5fG1BAYbPpDw=="/>
@@ -30,29 +49,11 @@
 
 **New in 1.1.1:** Small improvements behind the scenes, so recordings and imported audio keep working reliably with the latest iOS. Nothing changes on the Mac.
 ]]></description>
-            <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.2.0/Minni-1.1.1.zip" length="4712805" type="application/octet-stream" sparkle:edSignature="EtPI+FqveuPcaxcFc8UhsOAJ5G03Jzbkw33LVfP4Oyvuvo86bSRQj5idylm1m6u/i2t7itV3p6/UwxZGQ0u9Bg=="/>
+            <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.3.0/Minni-1.1.1.zip" length="4712805" type="application/octet-stream" sparkle:edSignature="EtPI+FqveuPcaxcFc8UhsOAJ5G03Jzbkw33LVfP4Oyvuvo86bSRQj5idylm1m6u/i2t7itV3p6/UwxZGQ0u9Bg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.1.1/Minni130-127.delta" sparkle:deltaFrom="127" length="413742" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cShli3pbDg+6ETvfWWTw5qgdnUzOKsNAfkKjCwLV6to8sWQmDEDfnQOOkx1WTfipQq8OnD+sQRpAIuKWn9wWAw=="/>
                 <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.1.1/Minni130-81.delta" sparkle:deltaFrom="81" length="1433566" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="c1HkftTh8WTnlSMC6lY08E64LtI2cNRfAR0FisNTsyvw1wSAMlDFxHLoSLF8cV7PqJvBMGcKNjGEY8wWk3v9Aw=="/>
                 <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.1.1/Minni130-78.delta" sparkle:deltaFrom="78" length="1433306" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TYdk/KhVzi93wq93whKEfj3v16gfQXwlbQxfyAE9kLDIOuF+0Omlv9KcqjAN0XU7xk5+neN/WvuHB/MIGDekBA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.1.0</title>
-            <pubDate>Sun, 01 Nov 2026 13:12:39 +0100</pubDate>
-            <sparkle:version>127</sparkle:version>
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[**Neu in 1.1.0:** Aufnahmen. Minni nimmt Gesprochenes auf und schreibt das Transkript direkt auf dem Gerät; die Suche findet jedes Wort. Sprachmemos und andere Audiodateien lassen sich importieren, und aus einem Transkript oder dem Text eines Screenshots wird mit einem Klick eine Notiz.
-Bitte aktualisieren Sie Minni auf all Ihren Geräten, bevor Sie Aufnahmen machen — ältere Versionen zeigen sie leer an.
-
-**New in 1.1.0:** Recordings. Minni records speech and writes the transcript on the device; search finds every word. Voice Memos and other audio files can be imported, and a transcript or a screenshot's text becomes a note with one click.
-Please update Minni on all your devices before you record — older versions show recordings as empty.
-]]></description>
-            <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.2.0/Minni-1.1.0.zip" length="4712154" type="application/octet-stream" sparkle:edSignature="DiC3LuTtmz9Stf/TPYHLMN9koL250Oco12iBiG/YdNWA97C9eS8sNXTqkoIaT6yIbM9R0h2cwQGC1h4JHMarAQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.1.0/Minni127-81.delta" sparkle:deltaFrom="81" length="1429014" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oo2EzPCW1NXli5bCzGalkNeutG6heLL2YjGNxa7pxq7aXNvI9RUiMqu6H+5HbVkrag/pTQAsDnlhznQmXd5JAw=="/>
-                <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.1.0/Minni127-78.delta" sparkle:deltaFrom="78" length="1429566" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NKt2ihI2BL2wl0D/jjZJcJJrnUGgACodTKgpk8Mb+Mdhl3qk034dyAQpObJWsCagNaJKz/Ohag/jmdeG2wmUAQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
