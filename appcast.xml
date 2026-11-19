@@ -3,6 +3,25 @@
     <channel>
         <title>Minni</title>
         <item>
+            <title>1.5.0</title>
+            <pubDate>Thu, 19 Nov 2026 10:17:05 +0100</pubDate>
+            <sparkle:version>170</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[**Neu in 1.5.0:** Schnell erfassen: Auf dem Mac öffnet ⌃⌥Leertaste in jeder App ein kleines Feld. Sie tippen einen Gedanken, drücken den Zeilenschalter, und er ist in Minni gesichert. ⌘V im leeren Feld sichert sofort, was Sie kopiert haben. Auf dem iPhone sagen Sie zu Siri „Zu Minni hinzufügen“ oder legen „Zu Minni hinzufügen“ ins Kontrollzentrum, auf den Sperrbildschirm oder auf die Aktionstaste. Den Kurzbefehl auf dem Mac ändern Sie in den Einstellungen.
+
+**New in 1.5.0:** Quick capture: on the Mac, ⌃⌥Space opens a small panel over any app. Type a thought, press Return, and it's saved in Minni. ⌘V in the empty panel saves what you copied straight away. On the iPhone, say "Add to Minni" to Siri, or put "Add to Minni" in Control Center, on the Lock Screen or on the Action button. You can change the Mac shortcut in Settings.
+]]></description>
+            <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.5.0/Minni-1.5.0.zip" length="5611158" type="application/octet-stream" sparkle:edSignature="FRvWCE9Q9Mb9b7NCqGgLj8VMoPlxgc1X7pk1RgknTc4WB37dTtoblMtpNl7tTpotfyBDFPWQkuvqggTVNgGsCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.5.0/Minni170-161.delta" sparkle:deltaFrom="161" length="901590" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vn/gbCUg2fdwYkicIRZoIeNWr78gA5yXAoK9+tPDfFknE2lC6cDJcN/mEHeHX999GULbHrSGNZByBk+BzIZNDg=="/>
+                <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.5.0/Minni170-151.delta" sparkle:deltaFrom="151" length="1286950" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RBxADjhyN3Q2/3ABpqHz0987rPYfmpcB+uBD0fp60/jn/G4JFUdV92IuLJsMyv6zhxcAWW4ERiY84n6nQ6e4AA=="/>
+                <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.5.0/Minni170-142.delta" sparkle:deltaFrom="142" length="1423414" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cxiaiiBA/+qqGUXjCDOuxm5Xy1d21LhOQmtBg3sjq7Xwp1GJ453KYt4ZPtH9NOGH8zNydv8/hFKSOrrJxCbBAA=="/>
+                <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.5.0/Minni170-130.delta" sparkle:deltaFrom="130" length="1880402" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wT7pT93qHIhQo7ONcnVN26zrvdPAOjkO8S3P+iQKqX/qv+8O2MfeZl1cTKOLtM//+XcJqDVaRJu/ea4qT61fBg=="/>
+                <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.5.0/Minni170-127.delta" sparkle:deltaFrom="127" length="1885682" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Kd9UHf0hb3HqPH6p2of6491JNA1ju8cKnHtkvxrc9DUmIRT9MWJHKWBMq5It7w8Jb5fAjKUd6E1Sww9vMhxICw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.4.0</title>
             <pubDate>Tue, 10 Nov 2026 14:13:42 +0100</pubDate>
             <sparkle:version>161</sparkle:version>
@@ -38,24 +57,6 @@
                 <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.3.0/Minni151-127.delta" sparkle:deltaFrom="127" length="1322062" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+9wb73n2HahaByDBDS5Te8s506zZaFxfv9pDOE0bvvLDsYZLc6h4IuJ2bqZefLarspf970RHZDPgnUJelQRGCQ=="/>
                 <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.3.0/Minni151-81.delta" sparkle:deltaFrom="81" length="1904402" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="y+DemQkP28exVay7dNKO14btSL7IZGb3DVAj5wbtRRdFhR7jVrUdSR9E2YiQBZsWYR62eEmhHt3HvW4YFPabDg=="/>
                 <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.3.0/Minni151-78.delta" sparkle:deltaFrom="78" length="1904258" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RIXFoUChG7fM+QRBdhiePWwISupC1jOXWTy1zkwY/VS6vfBGIYSiNSlFzrDHhtaxG1bLzt/afrRxuvHjYjJZDg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.2.0</title>
-            <pubDate>Wed, 04 Nov 2026 11:52:20 +0100</pubDate>
-            <sparkle:version>142</sparkle:version>
-            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[**Neu in 1.2.0:** Aufnahmen erhalten eine Zusammenfassung mit Titelvorschlag, Kernpunkten und Aufgaben – erstellt auf Ihrem Gerät mit Apple Intelligence. Geräte ohne Apple Intelligence zeigen die Zusammenfassung eines anderen Geräts, sobald sie über iCloud angekommen ist. Wer möchte, kann in den Einstellungen einen eigenen Ollama-Server im Heimnetz verwenden. Außerdem: Notizen lassen sich in der Vorschau mit einem Klick kopieren.
-
-**New in 1.2.0:** Recordings get a summary with a suggested title, key points and action items – made on your device with Apple Intelligence. Devices without Apple Intelligence show another device's summary once it arrives through iCloud. If you like, Settings can use your own Ollama server on your home network. Also: notes can be copied from the preview in one click.
-]]></description>
-            <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.2.0/Minni-1.2.0.zip" length="5067627" type="application/octet-stream" sparkle:edSignature="Y605cDVviVVS9BryjtNGSV6aYgDBDjQGNcZRS7E4S2370/ud9vuoAUrzWSNDvTkNCsK8eAaZiniUrF6d0pp7Bg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.2.0/Minni142-130.delta" sparkle:deltaFrom="130" length="1167454" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oM5HvGujd3p5SPGtC7dMaca+XIEAV/+8YKZBaRoY5+d9O2l0IwaQnRGX26XyOqIA6iSVJQUqjUTp7obx3Lt9Dg=="/>
-                <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.2.0/Minni142-127.delta" sparkle:deltaFrom="127" length="1174282" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MUvQNZiRX5qR3nIzaeDUCrrHdKY9TjLEcO+Dfe3PezcyV/rqW1ZkZhHqfR4ppp8JnPfzvBC01L5fG1BAYbPpDw=="/>
-                <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.2.0/Minni142-81.delta" sparkle:deltaFrom="81" length="1818146" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+MajyDpVx4Wrnn00cjGpPJqaSQWIvOI8Sy1SC/I0Tx5cT+D9TsYbQ8BRRxgL5PZ7Ilrfz+mWi5ZT86KvYUvSAw=="/>
-                <enclosure url="https://github.com/saerdna24/Minni-releases/releases/download/v1.2.0/Minni142-78.delta" sparkle:deltaFrom="78" length="1817686" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="75aOrHXljEg7mOBHWqvsiX467RaQlTjYxhuJ9VRpZO6Mj0FGfTgxBTNvFHobLve1ElIxR/BmcUeC9QmVBgAaBQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
